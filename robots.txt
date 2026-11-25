@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yasermerrikhi.github.io/merrikhi-lab/sitemap.xml
